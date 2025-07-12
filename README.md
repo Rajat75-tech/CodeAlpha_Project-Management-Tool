@@ -21,6 +21,8 @@ The Project Management Tool is a web-based task management system designed to st
 <li>JavaScript</li>
 
 ## `Installation`
-<li>Clone the repository: git clone https://github.com/riyanachwani/project-management.git </li>
+<li>Clone the repository: git clone https://github.com/Rajat75-tech/CodeAlpha_Project-Management-Tool.git </li>
 <li>Open the project folder in your preferred code editor.</li>
 <li>Open the index.html file in a web browser.</li>
+
+Live Demo :- https://code-alpha-project-management-tool-rajat75-techs-projects.vercel.app/
